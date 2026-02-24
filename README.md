@@ -26,4 +26,4 @@ This project was created based on a Frontend Mentor [https://www.frontendmentor.
 - Save submitted data using localStorage for better user experience
 
 ## 🍿 Video
-
+https://github.com/user-attachments/assets/b168610a-9151-40f9-89b5-8b4583d8d666
